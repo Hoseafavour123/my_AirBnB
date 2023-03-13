@@ -1,0 +1,18 @@
+/*
+    ======
+    Footer
+    ======
+*/
+footer {
+    height: 60px;
+    width: 100%;
+    border-top: 1px #CCCCCC;
+    background-color: white;
+    text-align: center;
+    vertical-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+}

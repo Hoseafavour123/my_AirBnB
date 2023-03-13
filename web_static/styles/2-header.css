@@ -1,0 +1,16 @@
+/*
+    =======
+    Header
+    =======
+*/
+header {
+    height: 70px;
+    width: 100%;
+    background-color: red;
+}
+
+.logo {
+    align-self: self-start;
+    margin-left: 20px;
+    vertical-align: center;
+}

@@ -1,0 +1,29 @@
+/*
+    ========================
+    Let's style up the place
+    ========================
+*/
+.places h1 {
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+
+.place_listings {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.place_listings article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+
+.place_listings article h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
